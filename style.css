@@ -7,10 +7,10 @@ body {
 h1 {
   color: red;
 }
-/*#featured-property p {*/
-/*  width: 800px;*/
-  /*margin: 0 auto;*/
-/*}*/
+#featured-property p {
+  width: 800px;
+  margin: 0 auto;
+}
 nav a {
   padding-left: 10px;
   padding-right: 10px;
